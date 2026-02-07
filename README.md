@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋, I'm Rudra
 
-<!--
-**rpspoonia/rpspoonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | Full Stack Developer | Problem Solver  
 
-Here are some ideas to get you started:
+I build scalable applications, work on backend-heavy systems, and enjoy solving real-world problems with clean, maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 💻 Working with **backend systems, APIs, and cloud-native apps**
+- 🌱 Currently improving **system design & performance**
+- 🌙 Often working **night shifts** but still shipping 🚢
+- 🤝 Love collaborating on meaningful projects
+- 🧩 Interested in solving complex engineering problems
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- JavaScript | TypeScript | Python | Java
+
+**Frontend**
+- React | HTML | CSS | Tailwind
+
+**Backend**
+- Flask | Django | Node.js
+- REST APIs
+
+**DevOps & Cloud**
+- Docker | Kubernetes | CI/CD
+- GitHub Actions
+
+**Databases**
+- PostgreSQL | MongoDB | MySQL
+
+---
+
+## 📌 Current Focus
+
+- 🔹 Building production-ready features
+- 🔹 Improving CI/CD pipelines
+- 🔹 Writing cleaner, scalable code
+- 🔹 System & API design
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/rudra-pratap-poonia-0b600b191/
+- 🐙 GitHub: https://github.com/rpspoonia 
+- 📧 Email: rpspunia@gmail.com  
+
+---
+
+⭐️ *If you like my work, consider giving a star to my repositories!*
